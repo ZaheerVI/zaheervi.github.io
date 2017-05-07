@@ -1,7 +1,7 @@
 /**
  * Esc-cape
  *
- * A platformer game by Faisal with Aaron and Eric
+ * A platformer game by Zaheer VI
  *
  */
 
